@@ -1,0 +1,4 @@
+{>layout/}
+{<content}
+	You should know that this is loaded from a Partial.
+{/content}
