@@ -14,7 +14,7 @@
         <h3>I have a mocked json API in a data folder</h3>
         <h3>I call my data in my Express Route and I pass those data in the page</h3>
 
-        <h2>Don't you feel lucky? I am showing you my awesome car collection :)</h2>
+        <h2 class="lucky">Don't you feel lucky? I am showing you my awesome car collection :)</h2>
       </div>
 
       <div class="collection">

@@ -1,4 +1,9 @@
 {>layout/}
 {<content}
-	You should know that this is loaded from a Partial.
+  <p>
+    You should know that this is loaded from a Partial. 
+  </p>
+  <p>
+    Wanna look for more Cars inside my Garage? Here we go: <a href="https://github.com/Sreilys/express-dust-app" class="garage" target="blank">Github</a>
+  </p> 
 {/content}
